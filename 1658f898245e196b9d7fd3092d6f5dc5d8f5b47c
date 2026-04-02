@@ -1,0 +1,23 @@
+CLAUDE.md
+  0d2573bcb5e56148 1,3,16,18,20,23,26,49,51-52,80-82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "1658f898245e196b9d7fd3092d6f5dc5d8f5b47c",
+  "prompts": {
+    "0d2573bcb5e56148": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "36049969-d368-4c0f-9772-807a5b877276",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "hurleveur",
+      "messages": [],
+      "total_additions": 14,
+      "total_deletions": 14,
+      "accepted_lines": 14,
+      "overriden_lines": 0
+    }
+  }
+}
