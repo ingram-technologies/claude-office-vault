@@ -1,0 +1,29 @@
+sync-obsidian.sh
+  689de2c8c7725cff 1-128
+.claude/settings.json
+  689de2c8c7725cff 6-16
+sync-obsidian.ps1
+  689de2c8c7725cff 1-134
+README.md
+  689de2c8c7725cff 67-68,102-103,105,111,113,116,127-153,186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "7933a371b3e694140cb17613d8e81db357d96beb",
+  "prompts": {
+    "689de2c8c7725cff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b96cb1a2-f28e-4f57-96d2-50562ca72008",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "hurleveur",
+      "messages": [],
+      "total_additions": 373,
+      "total_deletions": 63,
+      "accepted_lines": 309,
+      "overriden_lines": 8
+    }
+  }
+}
