@@ -16,7 +16,7 @@ SORT Joined ASC
 ## Quick Links
 
 ```dataview
-LIST WITHOUT ID "**" + file.folder + "** — [[" + file.path + "|Profile]] · [[" + regexreplace(file.path, "profile", "tasks") + "|Tasks]] · [[" + regexreplace(file.path, "profile", "activity") + "|Activity]]"
+LIST WITHOUT ID "**" + file.folder + "** — [[" + file.path + "|Profile]] · [[" + regexreplace(file.path, "profile", "tasks") + "|Tasks]] · [[" + regexreplace(file.path, "profile", "activity/activity") + "|Activity]]"
 FROM "team"
 WHERE file.name = "profile" AND Role != null
 SORT Joined ASC
