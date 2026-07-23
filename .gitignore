@@ -2,3 +2,7 @@
 .aggregation-state.json
 .retro-state.json
 .claude/settings.local.json
+
+# Private activity — sharing is opt-in. Sessions from repos you haven't routed
+# land in team/<you>/activity/private/ and stay on your machine.
+team/*/activity/private/
